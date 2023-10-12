@@ -13,6 +13,8 @@
 
 Esta aplicação é um programa Python que combina a biblioteca Selenium para automação web e a biblioteca PySimpleGUI para criar uma interface gráfica. Foi projetada para automatizar interações com um site de redes sociais, presumivelmente o Instagram. O programa permite aos usuários inserir suas credenciais de login, selecionar perfis para análise e, em seguida, realizar tarefas automatizadas, como coletar comentários em postagens e seguir perfis com base em palavras-chave específicas nos comentários. A interface gráfica baseada em PySimpleGUI oferece uma maneira fácil para os usuários configurarem e iniciarem essas ações. Esta aplicação funciona como uma ferramenta para automatizar tarefas de redes sociais dentro dos limites dos termos de serviço do site e das regulamentações legais.
 
+![Screenshot_1](https://github.com/rafaapaim/Instagram_bot/assets/91858793/ade3cab5-3daa-4c01-96a7-c0e5c4b2ea5e)
+
 ### Tecnologias
 ---
 
